@@ -1,0 +1,22 @@
+{
+  "name": "proyecto_dawe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lerulolu/Proyecto_DAWE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lerulolu/Proyecto_DAWE/issues"
+  },
+  "homepage": "https://github.com/Lerulolu/Proyecto_DAWE#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
